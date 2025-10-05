@@ -3,6 +3,6 @@
 ## Canal no youtube
 Canal para assistir a playlist das aulas: https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj
 
-# Git Comandos
+## Git Comandos
 * git pull -> baixar modificações
 * git push -> enviar modificações
